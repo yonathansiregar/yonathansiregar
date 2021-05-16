@@ -8,3 +8,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Instagram - https://www.instagram.com/alfrenanday/
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I help and work together with anyone which can finish a project.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonathansiregar)](https://github.com/anuraghazra/github-readme-stats)
