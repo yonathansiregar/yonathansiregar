@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Front-end and Back-end Web Developer
-- 🌱 I’m currently learning https://cpng.pikpng.com/pngl/s/204-2047555_datei-java-logo-svg-java-logo-svg-clipart.png, HTML5, CSS, JavaScript, PHP, and React JS, SASS
+- 🌱 I’m currently learning Java, HTML5, CSS, JavaScript, PHP, and React JS, SASS
 - 👯 I’m looking to collaborate on GitHub and YouTube
 - 💬 Ask me about Java, HTML5, CSS, JavaScript, PHP, and React JS, SASS
 - 📫 How to reach me: Instagram - https://www.instagram.com/alfrenanday/
