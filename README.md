@@ -1,5 +1,5 @@
-### Hello, World! 👋 I'm Alfrenanda Yonathan Siregar
-
+###  Hello, World! 👋 I'm Alfrenanda Yonathan Siregar
+<hr />
 Here are some ideas to get you started:
 - 💻 I’m currently working on Front-end Web Developer
 - 📚 I’m currently learning Java, HTML5, CSS, JavaScript, React JS, Bootstrap, Tailwind CSS
@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 - 1. Instagram - https://www.instagram.com/alfrenanday/
 - 2. Gmail - alfrenanday@gmail.com
 - 👱‍♂️ Pronouns: He/His
-- ⚡ Fun fact: I help and work together with anyone which can finish a project.
+- ✨ Fun fact: I help and work together with anyone which can finish a project.
 
-### My Github's Status
+### 📋 My Github's Status
 <hr />
 <a href = "https://github.com/anuraghazra/github-readme-stats">
   <img src = "https://github-readme-stats.vercel.app/api?username=yonathansiregar&show_icons=true&theme=tokyonight&line_height=40px" />
