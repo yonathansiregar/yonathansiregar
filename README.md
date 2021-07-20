@@ -9,13 +9,8 @@
    <li> React JS </li>
    <li> Tailwind CSS </li>
   </ul>
- <div>
-   <p> Besides that, I'm currently learning in:</p>
-   <ol>
-    <li> C </li>
-    <li> Java </li>
-    <li> Python <li>
-   </ol>
+ <div id = "currently-learning">
+   <p> Besides that, I'm currently learning in: C, Java, and Python</p>
  </div>
 <div>
 
