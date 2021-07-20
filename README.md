@@ -1,12 +1,15 @@
 <h1>About Me</h1>
 
 <div id = "introduce-myself">
+  <p> My Biodata List </p>
   <ul>
-    <li> My name : Alfrenanda Yonathan Siregar</li>
-    <li> I'm an Information Technology college student at Brawijaya University since 2020. </li>
-    <li> The date of birth : 23 Januari 2002 </li>
+    <li> 🎭 My name : Alfrenanda Yonathan Siregar</li>
+    <li> 🎂 The date of birth : 23 Januari 2002 </li>
+    <li> Gender : 🚹 male </li>
+    <li> 🏫 University : Brawijaya University </li>
+    <li> 👨‍🎓 Study Program : Information Technology, Faculty of Computer Science </li>
   </ul>
-  <p> My Knowledge and experience in: </p>
+  <p> ⚙ My Knowledge and experience in: </p>
   <ul>
     <li> HTML </li>
     <li> CSS </li>
