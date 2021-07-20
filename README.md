@@ -1,7 +1,6 @@
 <h1>About Me</h1>
 
 <div id = "introduce-myself">
-  <p> Hi there! 👋 </p>
   <ul>
     <li> My name : Alfrenanda Yonathan Siregar</li>
     <li> Currently studying at at Brawijaya University Malang since 2020 as an Information Technology college student. </li>
