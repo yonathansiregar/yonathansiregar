@@ -12,8 +12,8 @@
   </p>
   <ol>
     <li> 📧 My email - alfrenanday@gmail.com </li>
-    <li> 🌐 My Instagram Profile (DM me if you have any questions) - https://www.instagram.com/alfrenanday/ </li>
-    <li> 🌐 My personal website - (coming soon) </li>
+    <li> 🌐 My Instagram profile (DM me if you have any questions) - https://www.instagram.com/alfrenanday/ </li>
+    <li> 🌐 My portfolio website - (coming soon) </li>
   </ol>
 </div>
 
