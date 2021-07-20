@@ -2,11 +2,12 @@
 <hr />
 
 <div id = "introduce-myself">
- <p style = "font-weight: bold"> My Name is Alfrenanda Yonathan Siregar and currently studying at Brawijaya University Malang. I'm interested in Frontend Web Developer especially React JS, Bootstrap, and Tailwind CSS. Besides that, I'm currently learning in Java, C, and Python too. </p>
+ <p style = "font-weight: bold"> My Name is Alfrenanda Yonathan Siregar and currently studying at Brawijaya University Malang. </p>
+ <p style = "font-weight: bold"> I'm interested in Frontend Web Developer especially React JS, Bootstrap, and Tailwind CSS. Besides that, I'm currently learning in Java, C, and Python too. </p>
 <div>
 
 <div id = "contact-me">
-  <p>
+  <p style = "font-weight: bold">
     🔗 How to reach me:
   </p>
   <ol>
