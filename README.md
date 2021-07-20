@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I help and work together with anyone which can finish a project.
 
 ![Alfrenanda Yonathan Siregar's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonathansiregar&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yonathansiregar&langs_count=8&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yonathansiregar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
