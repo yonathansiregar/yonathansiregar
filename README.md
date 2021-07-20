@@ -10,7 +10,7 @@
    <li> Tailwind CSS </li>
   </ul>
  <div>
-   <p> Besides that, I'm currently learning in: Java, C, and Python too. </p>
+   <p> Besides that, I'm currently learning in:</p>
    <ol>
     <li> C </li>
     <li> Java </li>
