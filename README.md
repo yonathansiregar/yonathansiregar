@@ -6,7 +6,7 @@
     <li> I'm an Information Technology college student at Brawijaya University since 2020. </li>
     <li> The date of birth : 23 Januari 2002 </li>
   </ul>
-  <p> I'm interested in Frontend Web Developer especially: </p>
+  <p> My Knowledge and experience in: </p>
   <ul>
     <li> HTML </li>
     <li> CSS </li>
