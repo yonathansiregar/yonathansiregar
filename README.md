@@ -25,11 +25,11 @@
 
 <div id = "contact-me">
   <p style = "font-weight: bold">
-    🔗 How to reach me:
+    🔗 How to reach me if you have any questions:
   </p>
   <ol>
     <li> 📧 My email - alfrenanday@gmail.com </li>
-    <li> 🌐 My Instagram profile (DM me if you have any questions) - https://www.instagram.com/alfrenanday/ </li>
+    <li> 🌐 My Instagram profile (DM me) - https://www.instagram.com/alfrenanday/ </li>
     <li> 🌐 My portfolio website - (coming soon) </li>
   </ol>
 </div>
