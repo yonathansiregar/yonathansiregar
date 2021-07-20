@@ -7,7 +7,7 @@
     <li> 🎂 The date of birth : 23 Januari 2002 </li>
     <li> Gender : 🚹 male </li>
     <li> 🏫 University : Brawijaya University </li>
-    <li> 👨‍🎓 Study Program : Information Technology, Faculty of Computer Science </li>
+    <li> 👨‍🎓 Study program : Information Technology, Faculty of Computer Science </li>
   </ul>
   <p> ⚙ My Knowledge and experience in: </p>
   <ul>
