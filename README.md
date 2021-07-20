@@ -1,9 +1,22 @@
 <h1>About Me</h1>
 
 <div id = "introduce-myself">
- <p>Hi there! 👋</p>
- <p style = "font-weight: bold"> My Name is Alfrenanda Yonathan Siregar and currently studying at Brawijaya University Malang. </p>
- <p style = "font-weight: bold"> I'm interested in Frontend Web Developer especially React JS, Bootstrap, and Tailwind CSS. Besides that, I'm currently learning in Java, C, and Python too. </p>
+  <p>Hi there! 👋</p>
+  <p> My Name is Alfrenanda Yonathan Siregar and currently studying at Brawijaya University Malang. </p>
+  <p> I'm interested in Frontend Web Developer especially: </p>
+  <ul>
+   <li>Bootstrap</li>
+   <li> React JS </li>
+   <li> Tailwind CSS </li>
+  </ul>
+ <div>
+   <p> Besides that, I'm currently learning in: Java, C, and Python too. </p>
+   <ul>
+    <li> C </li>
+    <li> Java </li>
+    <li> Python <li>
+   </ul>
+ </div>
 <div>
 
 <div id = "contact-me">
