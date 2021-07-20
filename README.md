@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I help and work together with anyone which can finish a project.
 
 ### My Github's Status
+<hr />
 <a href = "https://github.com/anuraghazra/github-readme-stats">
   <img src = "https://github-readme-stats.vercel.app/api?username=yonathansiregar&show_icons=true&theme=tokyonight&line_height=40px" />
 </a>
