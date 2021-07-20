@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 </a>
 
 <a href = "https://github.com/anuraghazra/github-readme-stats">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yonathansiregar&langs_count=5&theme=tokyonight)](https://github.com/yonathansiregar/github-readme-stats" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yonathansiregar&langs_count=5&theme=tokyonight" />
 </a>
