@@ -3,7 +3,7 @@
 <div id = "introduce-myself">
   <ul>
     <li> My name : Alfrenanda Yonathan Siregar</li>
-    <li> Currently studying at at Brawijaya University Malang since 2020 as an Information Technology college student. </li>
+    <li> I'm an Information Technology college student at Brawijaya University since 2020. </li>
     <li> The date of birth : 23 Januari 2002 </li>
   </ul>
   <p> I'm interested in Frontend Web Developer especially: </p>
