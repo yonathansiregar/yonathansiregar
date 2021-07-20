@@ -2,7 +2,11 @@
 
 <div id = "introduce-myself">
   <p> Hi there! 👋 </p>
-  <p> My Name is Alfrenanda Yonathan Siregar and currently studying at Brawijaya University Malang. </p>
+  <ul>
+    <li> My name : Alfrenanda Yonathan Siregar</li>
+    <li> Currently studying at at Brawijaya University Malang since 2020 as an Information Technology college student. </li>
+    <li> The date of birth : 23 Januari 2002 </li>
+  </ul>
   <p> I'm interested in Frontend Web Developer especially: </p>
   <ul>
     <li> HTML </li>
