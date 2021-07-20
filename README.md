@@ -1,4 +1,4 @@
-<h1>Let Me Introduce Myself</h1>
+<h1>About Me</h1>
 
 <div id = "introduce-myself">
  <p>Hi there! 👋</p>
@@ -11,8 +11,9 @@
     🔗 How to reach me:
   </p>
   <ol>
-    <li> 📧 Gmail - alfrenanday@gmail.com </li>
-    <li> Instagram - https://www.instagram.com/alfrenanday/ </li>
+    <li> 📧 My email - alfrenanday@gmail.com </li>
+    <li> 🌐 My Instagram Profile (DM me if you have any questions) - https://www.instagram.com/alfrenanday/ </li>
+    <li> 🌐 My personal website - (coming soon) </li>
   </ol>
 </div>
 
