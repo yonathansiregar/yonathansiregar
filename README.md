@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 👱‍♂️ Pronouns: He/His
 - ⚡ Fun fact: I help and work together with anyone which can finish a project.
 
-![Alfrenanda Yonathan Siregar's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonathansiregar&show_icons=true&theme=merko)
+![Alfrenanda Yonathan Siregar's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonathansiregar&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yonathansiregar&langs_count=8&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
