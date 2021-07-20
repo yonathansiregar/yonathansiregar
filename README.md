@@ -2,9 +2,9 @@
 
 Here are some ideas to get you started:
 - 💻 I’m currently working on Front-end Web Developer
-- 📚 I’m currently learning Java, HTML5, CSS, JavaScript, React JS, SCSS, Bootstrap, Tailwind CSS
+- 📚 I’m currently learning Java, HTML5, CSS, JavaScript, React JS, Bootstrap, Tailwind CSS
 - 👯 I’m looking to collaborate on GitHub and YouTube
-- 💬 Ask me about Java, HTML5, CSS, JavaScript, SCSS, React JS
+- 💬 Ask me about Java, HTML5, CSS, JavaScript, React JS
 - 📫 How to reach me: 
 - 1. Instagram - https://www.instagram.com/alfrenanday/
 - 2. Gmail - alfrenanday@gmail.com
