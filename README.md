@@ -11,11 +11,11 @@
   </ul>
  <div>
    <p> Besides that, I'm currently learning in: Java, C, and Python too. </p>
-   <ul>
+   <ol>
     <li> C </li>
     <li> Java </li>
     <li> Python <li>
-   </ul>
+   </ol>
  </div>
 <div>
 
