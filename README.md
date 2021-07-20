@@ -1,5 +1,4 @@
 <h1>Let Me Introduce Myself</h1>
-<hr />
 
 <div id = "introduce-myself">
  <p>Hi there! 👋</p>
@@ -17,8 +16,7 @@
   </ol>
 </div>
 
-### 📋 My Github's Status
-<hr />
+ <h1>My Github's Status</h1>
 <a href = "https://github.com/anuraghazra/github-readme-stats">
   <img src = "https://github-readme-stats.vercel.app/api?username=yonathansiregar&show_icons=true&theme=tokyonight&line_height=40px" />
 </a>
