@@ -1,8 +1,8 @@
-###  Let Me Introduce Myself
+,h1>Let Me Introduce Myself</h1>
 <hr />
 
 <div id = "introduce-myself">
- <h1>Hi there! 👋</h1>
+ <p>Hi there! 👋</p>
  <p style = "font-weight: bold"> My Name is Alfrenanda Yonathan Siregar and currently studying at Brawijaya University Malang. </p>
  <p style = "font-weight: bold"> I'm interested in Frontend Web Developer especially React JS, Bootstrap, and Tailwind CSS. Besides that, I'm currently learning in Java, C, and Python too. </p>
 <div>
