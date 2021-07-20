@@ -5,16 +5,12 @@
  <p style = "font-weight: bold"> My Name is Alfrenanda Yonathan Siregar and currently studying at Brawijaya University Malang. I'm interested in Frontend Web Developer especially React JS, Bootstrap, and Tailwind CSS. Besides that, I'm currently learning in Java, C, and Python too. </p>
 <div>
 
-<div id = "fun-fact">
- <p> ✨ Fun fact: I help and work together with anyone which can finish a project. </p>
-</div>
-
 <div id = "contact-me">
   <p>
-    How to reach me:
+    🔗 How to reach me:
   </p>
   <ol>
-    <li> Gmail - alfrenanday@gmail.com </li>
+    <li> 📧 Gmail - alfrenanday@gmail.com </li>
     <li> Instagram - https://www.instagram.com/alfrenanday/ </li>
   </ol>
 </div>
