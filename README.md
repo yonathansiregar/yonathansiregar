@@ -19,7 +19,7 @@
     <li> Tailwind CSS </li>
   </ul>
  <div id = "currently-learning">
-   <p> Besides that, I'm currently learning in: C, Java, and Python </p>
+   <p> Besides that, I'm currently learning in: C, Java, and Python too. </p>
  </div>
 <div>
 
