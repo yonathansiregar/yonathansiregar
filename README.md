@@ -12,7 +12,7 @@
   <p> ⚙ My Knowledge in: JavaScript, ReactJS, Java, PHP, NodeJS, and Kotlin</p>
   <img src = "https://glints.com/id/lowongan/wp-content/uploads/2020/10/logo-reactjs.jpg" title="ReactJS">
   <img src = "https://blog.logrocket.com/wp-content/uploads/2021/03/javascript-php-developers.png" title = "JavaScript">
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" title = "PHP">
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" title = "PHP" width="90" height="90">
   <img src = "https://i1.wp.com/ngodingsantai.com/wp-content/uploads/2017/10/nodejs-new-pantone-black.png?fit=1200%2C735&ssl=1" title = "NodeJS">
 <div>
 
