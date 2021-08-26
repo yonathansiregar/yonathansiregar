@@ -9,16 +9,17 @@
     <li> 🏫 University : Brawijaya University </li>
     <li> 👨‍🎓 Study program : Information Technology, Faculty of Computer Science </li>
   </ul>
-  <p> ⚙ My Knowledge and experience in: </p>
-  <ul>
-    <li> HTML </li>
-    <li> CSS </li>
-    <li> JavaScript </li>
-    <li> Bootstrap </li>
-    <li> React JS </li>
-    <li> Tailwind CSS </li>
-  </ul>
+  <p> ⚙ My Knowledge in: JavaScript, ReactJS, Java, PHP, NodeJS, and Kotlin</p>
 <div>
+  
+<div id = "certificate">
+    <p> Saya juga memiliki beberapa sertifikat yang dapat diklik berikut ini:
+    <a href = "https://www.freecodecamp.org/certification/alfrenandayonathansiregar/javascript-algorithms-and-data-structures"> JavaScript Algorithms and Data Structures </a>
+    <a href = "https://www.codepolitan.com/c/D1ISCKM"> Bootstrap Framework </a>
+    <a href = "https://www.dicoding.com/certificates/L4PQMNMK7ZO1"> Memulai Pemrograman Dengan Java </a>
+    <a href = "https://www.codepolitan.com/c/LYCPVXS"> Dasar-dasar HTML dan CSS </a>
+    <a href = "https://www.dicoding.com/certificates/N9ZODYELRPG5"> Pengenalan ke Dasar Pemrograman (Basic Programming 101) </a>
+</div>
 
 <div id = "contact-me">
   <p style = "font-weight: bold">
