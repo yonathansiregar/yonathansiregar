@@ -14,7 +14,11 @@
   
 <div id = "certificate">
     <p> Saya juga memiliki beberapa sertifikat yang dapat diklik berikut ini:
-    <a href = "https://www.freecodecamp.org/certification/alfrenandayonathansiregar/javascript-algorithms-and-data-structures"> JavaScript Algorithms and Data Structures </a>
+    <ul>
+      <li>
+        <a href = "https://www.freecodecamp.org/certification/alfrenandayonathansiregar/javascript-algorithms-and-data-structures"> JavaScript Algorithms and Data Structures </a>
+      </li>
+    </ul>
     <a href = "https://www.codepolitan.com/c/D1ISCKM"> Bootstrap Framework </a>
     <a href = "https://www.dicoding.com/certificates/L4PQMNMK7ZO1"> Memulai Pemrograman Dengan Java </a>
     <a href = "https://www.codepolitan.com/c/LYCPVXS"> Dasar-dasar HTML dan CSS </a>
