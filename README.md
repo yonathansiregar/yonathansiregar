@@ -18,9 +18,6 @@
     <li> React JS </li>
     <li> Tailwind CSS </li>
   </ul>
- <div id = "currently-learning">
-   <p> Besides that, I'm currently learning in: C, Java, and Python too. </p>
- </div>
 <div>
 
 <div id = "contact-me">
