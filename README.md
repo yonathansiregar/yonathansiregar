@@ -19,6 +19,7 @@
     <li> 📧 My email - alfrenanday@gmail.com </li>
     <li> 🌐 My Instagram profile (DM me) - https://www.instagram.com/alfrenanday/ </li>
     <li> 🌐 My portfolio website - (coming soon) </li>
+    <li> 🌐 My LinkedIn - https://www.linkedin.com/in/alfrenanda-yonathan/ </li>
   </ol>
 </div>
 
