@@ -13,7 +13,7 @@
 
 <div id = "contact-me">
   <p style = "font-weight: bold">
-    🔗 How to reach me if you have any questions:
+    🔗 How to reach me:
   </p>
   <ol>
     <li> 📧 My email - alfrenanday@gmail.com </li>
