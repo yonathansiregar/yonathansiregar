@@ -10,7 +10,7 @@
     <li> 👨‍🎓 Study program : Information Technology, Faculty of Computer Science </li>
   </ul>
   <p> ⚙ My Knowledge in: JavaScript, ReactJS, Java, PHP, NodeJS, and Kotlin</p>
-  <img src = "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" title="ReactJS" width="100" height="90">
+  <img src = "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" title="ReactJS" width="90" height="90">
   <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" title = "JavaScript" width="90" height="90">
   <img src = "https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" title = "PHP" width="90" height="90">
   <img src = "https://i1.wp.com/ngodingsantai.com/wp-content/uploads/2017/10/nodejs-new-pantone-black.png?fit=1200%2C735&ssl=1" title = "NodeJS" width="150" height="90">
