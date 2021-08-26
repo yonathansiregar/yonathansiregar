@@ -11,23 +11,6 @@
   </ul>
   <p> ⚙ My Knowledge in: JavaScript, ReactJS, Java, PHP, NodeJS, and Kotlin</p>
 <div>
-  
-<div id = "certificate">
-  <p> Saya juga memiliki beberapa sertifikat yang dapat diklik berikut ini: </p>
-  <ul> 
-    <li>
-      <a href = "https://www.freecodecamp.org/certification/alfrenandayonathansiregar/javascript-algorithms-and-data-structures"> JavaScript Algorithms and Data Structures </a>
-    </li>
-    
-    <li>
-      <a href = "https://www.codepolitan.com/c/D1ISCKM"> Bootstrap Framework </a>
-    </li>
-    
-    <li>
-      <a href = "https://www.codepolitan.com/c/LYCPVXS"> Dasar-dasar HTML dan CSS </a>
-    </li>
-  </ul>
-</div>
 
 <div id = "contact-me">
   <p style = "font-weight: bold">
