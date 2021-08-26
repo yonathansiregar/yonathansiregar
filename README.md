@@ -13,7 +13,7 @@
   <img src = "https://glints.com/id/lowongan/wp-content/uploads/2020/10/logo-reactjs.jpg" title="ReactJS" width="170" height="90">
   <img src = "https://blog.logrocket.com/wp-content/uploads/2021/03/javascript-php-developers.png" title = "JavaScript" width="150" height="90">
   <img src = "https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" title = "PHP" width="90" height="90">
-  <img src = "https://i1.wp.com/ngodingsantai.com/wp-content/uploads/2017/10/nodejs-new-pantone-black.png?fit=1200%2C735&ssl=1" title = "NodeJS" width="90" height="90">
+  <img src = "https://i1.wp.com/ngodingsantai.com/wp-content/uploads/2017/10/nodejs-new-pantone-black.png?fit=1200%2C735&ssl=1" title = "NodeJS" width="150" height="90">
 <div>
 
 <div id = "contact-me">
