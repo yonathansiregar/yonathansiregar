@@ -1,14 +1,7 @@
 <h1>About Me</h1>
 
 <div id = "introduce-myself">
-  <p> My Biodata List </p>
-  <ul>
-    <li> 🎭 My name : Alfrenanda Yonathan Siregar</li>
-    <li> 🎂 The date of birth : 23 Januari 2002 </li>
-    <li> Gender : 🚹 male </li>
-    <li> 🏫 University : Brawijaya University </li>
-    <li> 👨‍🎓 Study program : Information Technology, Faculty of Computer Science </li>
-  </ul>
+  <p> Hello, my name is Alfrenanda Yonathan Siregar. I'm an Information Technology Student at University of Brawijaya who interest in Web Development, Android Development, and UI/UX Design </p>
   <p> ⚙ My Knowledge in: </p>
   <img src = "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" title="ReactJS" width="90" height="90">
   <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" title = "JavaScript" width="90" height="90">
