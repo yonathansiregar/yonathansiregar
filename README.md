@@ -9,6 +9,7 @@
   <img src = "https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" title = "PHP" width="90" height="90">
   <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" title = "Laravel" width="90" height = "90">
   <img src = "https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" title = "Kotlin" width="90" height="90">
+  <img src = "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" title = "Java" width="90" height="90">
 <div>
 
 <div id = "contact-me">
