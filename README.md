@@ -11,7 +11,7 @@
   <ol>
     <li> 📧 My email - <a href="mailto:alfrenanday@email.com">alfrenanday@gmail.com</a></li>
     <li> 🌐 My Instagram profile (DM me) - <a href="https://www.instagram.com/alfrenanday/">@alfrenanday</a></li>
-    <li> 🌐 My portfolio website - (coming soon) </li>
+<!--     <li> 🌐 My portfolio website - (coming soon) </li> -->
     <li> 🌐 My LinkedIn - <a href="https://www.linkedin.com/in/alfrenanda-yonathan/">alfrenanda-yonathan</a></li>
   </ol>
 </div>
